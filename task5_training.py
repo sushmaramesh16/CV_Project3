@@ -244,13 +244,22 @@ def show_db(path: str = DB_PATH):
 # ─────────────────────────────────────────────────────────────────────────────
 
 DEFAULT_IMAGES = [
-    ('IMGS/img1p3.png',  'triangle'),
-    ('IMGS/img2P3.png',  'tbar'),
-    ('IMGS/img3P3.png',  'lkey'),
-    ('IMGS/img4P3.png',  'chisel'),
-    ('IMGS/img5P3.png',  'rod'),
+    ('IMGS/img1p3.png',     'triangle'),
+    ('IMGS/img2P3.png',     'tbar'),
+    ('IMGS/img3P3.png',     'lkey'),
+    ('IMGS/img4P3.png',     'chisel'),
+    ('IMGS/img5P3.png',     'carkey'),
+    ('IMGS/triangle_02.png','triangle'),
+    ('IMGS/triangle_03.png','triangle'),
+    ('IMGS/tbar_02.png',    'tbar'),
+    ('IMGS/tbar_03.png',    'tbar'),
+    ('IMGS/lkey_02.png',    'lkey'),
+    ('IMGS/lkey_03.png',    'lkey'),
+    ('IMGS/chisel_02.png',  'chisel'),
+    ('IMGS/chisel_03.png',  'chisel'),
+    ('IMGS/carkey_02.png',  'carkey'),
+    ('IMGS/carkey_03.png',  'carkey'),
 ]
-
 if __name__ == '__main__':
     ap = argparse.ArgumentParser(
         description='Project 3 Task 5 – Collect Training Data')

@@ -165,10 +165,20 @@ def save_confusion_matrix_image(cm, class_names, path):
 # default test set with known labels
 DEFAULT_TEST = [
     ('IMGS/img1p3.png', 'triangle'),
+    ('IMGS/triangle_02.png', 'triangle'),
+    ('IMGS/triangle_03.png', 'triangle'),
     ('IMGS/img2P3.png', 'tbar'),
+    ('IMGS/tbar_02.png', 'tbar'),
+    ('IMGS/tbar_03.png', 'tbar'),
     ('IMGS/img3P3.png', 'lkey'),
+    ('IMGS/lkey_02.png', 'lkey'),
+    ('IMGS/lkey_03.png', 'lkey'),
     ('IMGS/img4P3.png', 'chisel'),
+    ('IMGS/chisel_02.png', 'chisel'),
+    ('IMGS/chisel_03.png', 'chisel'),
     ('IMGS/img5P3.png', 'carkey'),
+    ('IMGS/carkey_02.png', 'carkey'),
+    ('IMGS/carkey_03.png', 'carkey'),
 ]
 
 
