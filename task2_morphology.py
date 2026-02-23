@@ -1,3 +1,6 @@
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 2 - Morphological open and close filtering written from scratch using NumPy
 """
 Project 3 – Task 2: Morphological Filtering
 =============================================

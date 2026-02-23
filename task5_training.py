@@ -1,3 +1,6 @@
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 5 - Training data collection and object database management
 """
 Project 3 – Task 5: Collect Training Data
 ==========================================

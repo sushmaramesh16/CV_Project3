@@ -1,7 +1,6 @@
-"""
-Task 9 - One-shot classification using eigenspace embeddings (PCA)
-
-"""
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 9 - One-shot classification using eigenspace embeddings (PCA-based)
 
 import cv2
 import numpy as np

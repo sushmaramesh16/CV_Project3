@@ -1,3 +1,6 @@
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 4 - Feature computation including orientation, oriented bounding box, and Hu moments
 """
 Project 3 – Task 4: Orientation & Moment Features
 ===================================================

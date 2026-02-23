@@ -1,3 +1,8 @@
+
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 1 - Dynamic HSV thresholding using ISODATA algorithm written from scratch
+
 """
 Project 3 – Task 1: Thresholding
 =================================

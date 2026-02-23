@@ -1,6 +1,6 @@
-"""
-Task 6 - Classify new images
-"""
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 6 - Nearest-neighbour classification using scaled Euclidean distance
 
 import cv2
 import numpy as np

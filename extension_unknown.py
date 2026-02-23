@@ -1,3 +1,6 @@
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Extension 1 - Unknown object detection using scaled Euclidean distance thresholding
 """
 Extension: Unknown Object Detection
 =====================================

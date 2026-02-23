@@ -1,3 +1,6 @@
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 3 - Connected components analysis and region segmentation
 """
 Project 3 – Task 3: Connected Components Analysis
 ===================================================

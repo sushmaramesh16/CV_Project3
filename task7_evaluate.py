@@ -1,7 +1,6 @@
-"""
-Task 7 - Evaluate the classifier and build a confusion matrix
-"""
-
+# Name: Sushma Ramesh, Dina Barua
+# Date: February 22, 2026
+# Purpose: Task 7 - Performance evaluation and confusion matrix generation
 import cv2
 import numpy as np
 import argparse
